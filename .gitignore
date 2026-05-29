@@ -1,0 +1,10 @@
+# Ignore Zephyr compilation build output directories
+build/
+**/build/
+
+# Ignore local editor metadata
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
